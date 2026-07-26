@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "0.2.0",
+  "versionCode": 3,
+  "versionName": "0.3.0",
   "url": "https://raw.githubusercontent.com/fffuttta-design/futasms-releases/main/app/futasms.apk",
-  "notes": "常駐通知を廃止（バッテリー最適化に頼らずFCMで必要時だけ起動）。受信は通知なしで即時、返信も対応。"
+  "notes": "生存監視（ハートビート）を追加。アプリが黙って止まってもPCのFutaMailが気づいて知らせます。"
 }
