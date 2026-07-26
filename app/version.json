@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.3.0",
+  "versionCode": 4,
+  "versionName": "0.4.0",
   "url": "https://raw.githubusercontent.com/fffuttta-design/futasms-releases/main/app/futasms.apk",
-  "notes": "生存監視（ハートビート）を追加。アプリが黙って止まってもPCのFutaMailが気づいて知らせます。"
+  "notes": "電池を極限まで節約。スマホの定期処理をやめ、SMS着信とPCからの合図のときだけ動くようにしました。"
 }
