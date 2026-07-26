@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
+  "versionCode": 2,
+  "versionName": "0.2.0",
   "url": "https://raw.githubusercontent.com/fffuttta-design/futasms-releases/main/app/futasms.apk",
-  "notes": "初版：SMSの集約と返信、自動更新に対応。"
+  "notes": "常駐通知を廃止（バッテリー最適化に頼らずFCMで必要時だけ起動）。受信は通知なしで即時、返信も対応。"
 }
