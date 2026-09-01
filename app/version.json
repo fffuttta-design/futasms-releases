@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "0.4.0",
+  "versionCode": 5,
+  "versionName": "0.5.0",
   "url": "https://raw.githubusercontent.com/fffuttta-design/futasms-releases/main/app/futasms.apk",
-  "notes": "電池を極限まで節約。スマホの定期処理をやめ、SMS着信とPCからの合図のときだけ動くようにしました。"
+  "notes": "スマホで送ったSMSもFutaMailに集めるようにしました。送った相手が「送信済み」に出て、会話にも自分の吹き出しが並びます。"
 }
